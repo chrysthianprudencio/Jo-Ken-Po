@@ -1,6 +1,6 @@
 # Jo-Ken-Po
 
-A Jo Ken Po Game!
+### A Jo Ken Po Game  With HTML, CSS AND JAVASCRIPT!
 
 ## Screenshot
 
