@@ -30,11 +30,11 @@ To clone this project, choice one of this links below, in the example, Im using 
 
 SSH
 
-git@github.com:chrysthianprudencio/Jo-Ken-Po.git
+git clone git@github.com:chrysthianprudencio/Jo-Ken-Po.git
 
 HTTPS
 
-https://github.com/chrysthianprudencio/Jo-Ken-Po.git
+git clone https://github.com/chrysthianprudencio/Jo-Ken-Po.git
 
 After this, you can initialize through the live server extension that can be download on vscode.
 
