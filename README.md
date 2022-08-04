@@ -2,6 +2,11 @@
 
 ### A Jo Ken Po Game  With HTML, CSS AND JAVASCRIPT!
 
+## Presentation 
+
+[Gravação de tela de 04-08-2022 17:01:10.webm](https://user-images.githubusercontent.com/97757463/182942336-7f45cfdd-03a2-4013-9722-464d3d416d2c.webm)
+
+
 ## Screenshot
 
 ![Captura de tela de 2022-08-03 20-31-28](https://user-images.githubusercontent.com/97757463/182730285-9837fec0-53e0-46db-81a9-cd5db33028b0.png)
