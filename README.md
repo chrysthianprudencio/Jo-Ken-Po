@@ -23,3 +23,19 @@
   <ul>
     <li><strong>Linkedin</strong> - https://www.linkedin.com/in/chrysthianprudencio/ </li>
   </ul>
+  
+## How to clone this project? 
+
+To clone this project, choice one of this links below, in the example, Im using a git bash.
+
+SSH
+
+git@github.com:chrysthianprudencio/Jo-Ken-Po.git
+
+HTTPS
+
+https://github.com/chrysthianprudencio/Jo-Ken-Po.git
+
+After this, you can initialize through the live server extension that can be download on vscode.
+
+Live Server by Ritwick Dey
